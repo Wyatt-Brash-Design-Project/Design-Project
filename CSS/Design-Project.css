@@ -2,6 +2,44 @@ body{
     background-color: #f0f0f0;
 }
 
+.col-1{
+    height: 18px;
+    width: 18px;
+
+}
+
+.d-one{
+    background: #E6563B;
+    text-align: center;
+
+    border-radius: 50%;
+}
+
+.d-two{
+    background: #EB9D3A;
+    text-align: center;
+
+    border-radius: 50%;
+}
+
+.s{
+    background: #7CB06C;
+    text-align: center;
+
+    border-radius: 50%;
+}
+
+.h{
+    background: #00ABA9;
+    text-align: center;
+    border-radius: 50%;
+}
+
+.col-12>img{
+    border: solid .5em #E6E6E6;
+
+}
+
 a{
     font-family: 'Abel';
 }
