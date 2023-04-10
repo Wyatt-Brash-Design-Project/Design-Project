@@ -60,6 +60,7 @@ body{
     background: #00ABA9;
     height: 18px;
     width: 18px;
+    text-align: center;
     border-radius: 50%;
     font-size: 12px;
 }
@@ -85,11 +86,12 @@ h2{
     font-size: 30px;
 }
 
-div p{
+.circles p{
     font-family: 'Anton';
     color: white;
     width: 105px;
     height: 105px;
+    border: white 0.5em solid;
 }
 .red{
     background-color: #e6563b;
@@ -105,4 +107,12 @@ div p{
 
 .blue{
     background-color: #00aba9;
+}
+
+img{
+    width: calc(100% + 5px);
+}
+
+h6{
+    font-family: Abel;
 }
