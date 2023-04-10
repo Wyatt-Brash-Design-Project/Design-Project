@@ -18,3 +18,24 @@ h2{
     font-size: 30px;
 }
 
+div p{
+    font-family: 'Anton';
+    color: white;
+    width: 105px;
+    height: 105px;
+}
+.red{
+    background-color: #e6563b;
+}
+
+.orange {
+    background-color: #EB9D3A;
+}
+
+.green{
+    background-color: #7cb06c;
+}
+
+.blue{
+    background-color: #00aba9;
+}
