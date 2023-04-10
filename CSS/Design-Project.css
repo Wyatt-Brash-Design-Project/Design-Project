@@ -1,0 +1,20 @@
+body{
+    background-color: #f0f0f0;
+}
+
+a{
+    font-family: 'Abel';
+}
+
+h1, h2 {
+    font-family: 'Anton';
+}
+
+h1{
+    font-size: 45px;
+}
+
+h2{
+    font-size: 30px;
+}
+
