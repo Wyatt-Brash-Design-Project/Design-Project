@@ -6,11 +6,11 @@ body{
 
 
 
-.under-img-circle{
-    display: flex;
-    flex-direction: row;
+.under-img-circle, .font-change{
     font-family: Anton;
 }
+
+
 
 .under-img-circle p{
     margin-left: 0.5em;
@@ -66,9 +66,14 @@ body{
     font-size: 12px;
 }
 
-.col-12>img{
+.main-img{
     border: solid .5em #E6E6E6;
 
+}
+
+.side-icon{
+    margin: 0.5em;
+    border: 2px solid #e6e6e6;
 }
 
 a{
@@ -112,4 +117,8 @@ h2{
 
 h6{
     font-family: Abel;
+}
+
+.font-change{
+    font-size: 30px;
 }
