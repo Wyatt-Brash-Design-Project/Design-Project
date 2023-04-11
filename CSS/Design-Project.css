@@ -6,13 +6,14 @@ body{
 
 
 
-.col-4{
+.under-img-circle{
     display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
-    width: 13em;
-    padding-left: 5em;
+    font-family: Anton;
+}
 
+.under-img-circle p{
+    margin-left: 0.5em;
 }
 
 .d-one{
@@ -83,7 +84,7 @@ h1{
 }
 
 h2{
-    font-size: 30px;
+    font-size: 35px;
 }
 
 .circles p{
@@ -110,7 +111,7 @@ h2{
 }
 
 img{
-    width: calc(100% + 5px);
+    width: 100%;
 }
 
 h6{
